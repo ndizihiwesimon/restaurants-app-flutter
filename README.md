@@ -1,4 +1,4 @@
-# restaurants-app-flutter
+# Restaurants App Flutter
 This is mobile application that will list all restaurant in given address (district)
 
 ## Link to Mockup
